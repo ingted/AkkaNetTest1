@@ -1,0 +1,5 @@
+FSharp.Core
+System.ValueTuple
+Akka
+Akka.Streams
+Akka.FSharp
