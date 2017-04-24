@@ -1,0 +1,1 @@
+#r "../../packages/Hyperion/lib/net45/Hyperion.dll" 

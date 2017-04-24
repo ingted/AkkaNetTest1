@@ -3,3 +3,5 @@ System.ValueTuple
 Akka
 Akka.Streams
 Akka.FSharp
+Akkling
+Akkling.Streams

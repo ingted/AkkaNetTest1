@@ -1,0 +1,7 @@
+#load @"akka.fsx" 
+#load @"akka.serialization.hyperion.fsx" 
+#load @"fspickler.fsx" 
+#load @"fspowerpack.linq.community.fsx" 
+#load @"newtonsoft.json.fsx" 
+#load @"system.collections.immutable.fsx" 
+#r "../../packages/Akkling/lib/net45/Akkling.dll" 

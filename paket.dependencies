@@ -8,3 +8,5 @@ nuget System.ValueTuple
 nuget Akka
 nuget Akka.Streams
 nuget Akka.FSharp
+nuget Akkling
+nuget Akkling.Streams
